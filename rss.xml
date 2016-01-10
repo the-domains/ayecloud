@@ -4,14 +4,14 @@
         <description><![CDATA[AyeCloud]]></description>
         <link>https://thegrid.ai/ayecloud/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 07:50:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 07:51:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ayecloud/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First beta post]]></title>
             <description><![CDATA[<article><h1>First beta post</h1><p>Grid Member 13000 and something </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2af1e063f82b5c20e3b904d873cb5f958fdd22da.jpg"></article>]]></description>
             <link>https://thegrid.ai/ayecloud/first-beta-post/index.html</link>
             <guid isPermaLink="false">f9f0e318-53e9-4bd9-91e6-272156a5297d</guid>
-            <pubDate>Sun, 10 Jan 2016 07:50:41 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 07:50:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
