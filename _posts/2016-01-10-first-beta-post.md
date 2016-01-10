@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Let's see how this works"
-datePublished: '2016-01-10T07:50:41.257Z'
-dateModified: '2016-01-10T07:49:01.432Z'
+datePublished: '2016-01-10T07:50:54.522Z'
+dateModified: '2016-01-10T07:50:41.257Z'
 title: First beta post
 author: []
 authors: []
