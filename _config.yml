@@ -1,4 +1,8 @@
-layout_spectrum: 0.3088973
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,17 +13,17 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.7368421
+  saturation: 0.5275689
   brandStrength: 0.7272766572423279
-  lightness: 0.924812
+  lightness: 0.5050125
   brandColors:
     - '#B8B42D'
     - '#697A21'
@@ -28,13 +32,9 @@ color:
     - '#DD403A'
   rhythmicContrast: 0.641604
 typography_spectrum: 0.9310430807527155
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0.3088973
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: AyeCloud
